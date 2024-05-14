@@ -60,7 +60,7 @@ public class AgendaContatos {
 
         System.out.println(agendaContatos.pesquisarPorNome("Maria"));
 
-        System.out.println("Contato atualizado: " + agendaContatos.atualizarNumeroContato("Maria Silva", 555555));
+        System.out.println("AgendaContatos atualizado: " + agendaContatos.atualizarNumeroContato("Maria Silva", 555555));
 
     }
 }
